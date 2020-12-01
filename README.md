@@ -1,11 +1,11 @@
-# Revised template based on Minimal Theme
+# Revised personal webpage template based on Minimal Theme
 All changes were made in [index.html](https://github.com/jasonxyliu/minimal/blob/master/index.html).
 
 Icons use font awesome (e.g. fa-github, fa-twitter) and academicons (e.g. ai-cv, ai-google-scholar).
 
 Please upload files (e.g. paper pdfs, images) to proper folders, then replce links in the index.html.
 
-Also replace links to external websites, like Google Scholar and Twitter.
+Also replace embedded links to external websites, like Google Scholar and Twitter.
 
 Please be aware of the security vulnerability of <code>target="_blank"</code>, use it with <code>rel="noopener noreferrer"</code>, as done in index.html.
 

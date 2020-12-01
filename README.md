@@ -11,6 +11,8 @@ Please be aware of the security vulnerability of <code>target="_blank"</code>, u
 
 Old [index.html](https://github.com/jasonxyliu/minimal/blob/master/legacy/index.html) from Minimal is in legacy folder. Many useful html syntaxes there.
 
+**TODO**: add navigation bars below icons.
+
 
 # Minimal Theme
 
